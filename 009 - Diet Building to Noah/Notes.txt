@@ -5,4 +5,4 @@
 8: Samael
 10: Metatron
 16: Ahriman
-20: Noah
+19: Noah

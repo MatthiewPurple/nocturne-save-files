@@ -1,0 +1,8 @@
+2: Surt
+4: Mada
+6: Mot
+7: Mithra
+8: Samael
+10: Metatron
+16: Ahriman
+20: Noah

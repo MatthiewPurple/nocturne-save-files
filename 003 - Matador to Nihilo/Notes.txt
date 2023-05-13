@@ -1,0 +1,5 @@
+1: Matador
+8: Orthrus/Yaksini/Thor
+9: Raidou 1
+11: Daisoujou
+18: Nihilo
